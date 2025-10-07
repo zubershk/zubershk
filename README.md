@@ -8,7 +8,7 @@ A results-driven B.Sc. Data Science student with expertise in full-stack develop
 
 * 🌍  I'm based in Mumbai, India
 * 🚀  I'm currently working on [Parishtha: Full-Stack Spiritual Wellness E-Commerce Platform](http://parishtha.store/)
-* 🧠  I'm currently learning AI, ML & Generative AI
+* 🧠  I'm currently learning Advanced Machine Learning Algorithms & GenAI
 * 👥  I'm looking to collaborate on Full-stack development or data analysis projects
 
 <p align="left">
