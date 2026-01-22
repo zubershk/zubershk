@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # Full Stack Development & Data Science
 
 ## About Me:
-A results-driven B.Sc. Data Science student with expertise in full-stack development, UI/UX design, and data analytics. I leverage hands-on experience to deliver scalable solutions and optimise user experiences through innovative front-end development and data-driven insights. I focus on collaborative problem-solving and efficient project management.<br><br>I'm based in Mumbai, India<br><br>I'm currently learning Advanced Machine Learning Algorithms & GenAI<br>I'm looking to collaborate on Full-stack development or data analysis projects
+A results-driven B.Sc. Data Science student with expertise in full-stack development, UI/UX design, and data analytics. I leverage hands-on experience to deliver scalable solutions and optimise user experiences through innovative front-end development and data-driven insights. I focus on collaborative problem-solving and efficient project management.<br><br>I'm based in Mumbai, India<br>I'm currently learning Advanced Machine Learning Algorithms & GenAI<br>I'm looking to collaborate on Full-stack development or data analysis projects
 
 
 # Socials:
