@@ -2,76 +2,102 @@
   "username": "zubershk",
   "widgets": [
     {
-      "widgetId": "codeweb-retro-grid",
       "name": "Codeweb-retro-grid Widget",
-      "position": {
-        "x": 0,
-        "y": 0
-      },
       "size": {
         "width": 800,
         "height": 260
       },
       "config": {
+        "link": "",
+        "hideBorder": false,
+        "sourceType": "avatar",
+        "devCardLink": "",
+        "displayMode": "both",
+        "animationType": "none",
         "selectedTechs": [
           "ts",
           "js",
           "html",
           "css",
-          "sass",
           "bash",
           "vue",
-          "cs",
-          "php",
           "py",
           "java",
-          "ruby",
-          "c",
-          "cpp",
           "docker",
           "github",
           "nextjs",
-          "mysql"
+          "mysql",
+          "pnpm",
+          "npm",
+          "githubactions",
+          "vscode",
+          "git",
+          "prisma",
+          "redis",
+          "mongodb",
+          "postgres",
+          "nodejs"
         ],
-        "displayMode": "both",
-        "animationType": "none",
-        "animationPreviewKey": 5,
         "hideDecorations": false,
-        "hideBorder": false,
-        "sourceType": "avatar",
-        "devCardLink": "",
-        "link": ""
+        "animationPreviewKey": 5,
+        "technologies": [
+          "ts",
+          "js",
+          "html",
+          "css",
+          "bash",
+          "vue",
+          "py",
+          "java",
+          "docker",
+          "github",
+          "nextjs",
+          "mysql",
+          "pnpm",
+          "npm",
+          "githubactions",
+          "vscode",
+          "git",
+          "prisma",
+          "redis",
+          "mongodb",
+          "postgres",
+          "nodejs"
+        ]
       },
       "locked": false,
-      "visible": true,
       "zIndex": 1,
+      "visible": true,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "widgetId": "codeweb-retro-grid",
       "instanceId": "widget_1790262332382_0"
     },
     {
-      "widgetId": "codeweb-showcase-cards",
       "name": "Codeweb-showcase-cards Widget",
-      "position": {
-        "x": 0,
-        "y": 276
-      },
       "size": {
         "width": 800,
         "height": 220
       },
-      "config": {},
+      "config": {
+        "card1Icon": "Code",
+        "card1GifUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW95cTRnOXM1dTc1YTFwNjRkcGNkN2RqYjdhdTB3NTc3NDFiNjFxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h58dtf5vTpjulO4M5o/giphy.gif",
+        "lockAspectRatio": false
+      },
       "locked": false,
-      "visible": true,
       "zIndex": 3,
+      "visible": true,
+      "position": {
+        "x": 0,
+        "y": 276
+      },
+      "widgetId": "codeweb-showcase-cards",
       "instanceId": "widget_1790262332382_1"
     },
     {
-      "instanceId": "widget_1790262535832",
-      "widgetId": "controlplane-foundry",
       "name": "Controlplane-foundry Widget",
-      "position": {
-        "x": 0,
-        "y": 588
-      },
       "size": {
         "width": 800,
         "height": 330
@@ -79,22 +105,23 @@
       "config": {
         "layoutType": "hero",
         "accentColor": "#e6fbfb",
-        "secondaryColor": "#8a8a8a",
         "customTitle": "",
-        "animationSpeed": 2
+        "animationSpeed": 0.5,
+        "secondaryColor": "#8a8a8a",
+        "selectedRepos": []
       },
       "locked": false,
+      "zIndex": 4,
       "visible": true,
-      "zIndex": 4
-    },
-    {
-      "instanceId": "widget_1790263153148",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
       "position": {
         "x": 0,
-        "y": 934
+        "y": 588
       },
+      "widgetId": "controlplane-foundry",
+      "instanceId": "widget_1790262535832"
+    },
+    {
+      "name": "Contribution-snake Widget",
       "size": {
         "width": 800,
         "height": 250
@@ -103,98 +130,124 @@
         "theme": "dark"
       },
       "locked": false,
+      "zIndex": 5,
       "visible": true,
-      "zIndex": 5
-    },
-    {
-      "instanceId": "widget_1790263155186",
-      "widgetId": "profile-trophy",
-      "name": "Profile-trophy Widget",
       "position": {
         "x": 0,
-        "y": 1200
+        "y": 934
       },
+      "widgetId": "contribution-snake",
+      "instanceId": "widget_1790263153148"
+    },
+    {
+      "name": "Profile-trophy Widget",
       "size": {
         "width": 800,
         "height": 200
       },
       "config": {
-        "column": 6,
         "row": 1,
-        "noFrame": true,
         "noBg": true,
+        "column": 4,
+        "noFrame": true,
         "hideBorder": false,
-        "hideDecorations": false,
-        "borderColor": "github-auto"
+        "borderColor": "github-auto",
+        "hideDecorations": false
       },
       "locked": false,
+      "zIndex": 6,
       "visible": true,
-      "zIndex": 6
-    },
-    {
-      "instanceId": "widget_1790263472717",
-      "widgetId": "codeweb-social-badge",
-      "name": "Codeweb-social-badge Widget",
       "position": {
         "x": 0,
-        "y": 521
+        "y": 1200
       },
+      "widgetId": "profile-trophy",
+      "instanceId": "widget_1790263155186"
+    },
+    {
+      "name": "Codeweb-social-badge Widget",
       "size": {
         "width": 800,
         "height": 44
       },
       "config": {
+        "showText": true,
         "platforms": [
           "github",
           "linkedin",
           "gmail",
           "portfolio"
         ],
+        "showIcons": true,
+        "staticMode": false,
+        "label_gmail": "zubershaikh7232@gmail.com",
         "label_github": "zubershk",
         "label_linkedin": "zubershk",
-        "label_portfolio": "www.zubershaikh.dev",
-        "label_gmail": "zubershaikh7232@gmail.com",
-        "showText": true,
-        "showIcons": true,
-        "staticMode": false
+        "label_portfolio": "www.zubershaikh.dev"
       },
       "locked": false,
+      "zIndex": 6,
       "visible": true,
-      "zIndex": 6
-    },
-    {
-      "instanceId": "widget_1790264263995",
-      "widgetId": "readme-quotes",
-      "name": "Readme-quotes Widget",
       "position": {
         "x": 0,
-        "y": 1416
+        "y": 521
       },
+      "widgetId": "codeweb-social-badge",
+      "instanceId": "widget_1790263472717"
+    },
+    {
+      "name": "Readme-quotes Widget",
       "size": {
         "width": 784,
         "height": 176
       },
       "config": {},
       "locked": false,
+      "zIndex": 7,
       "visible": true,
-      "zIndex": 7
+      "position": {
+        "x": 0,
+        "y": 1416
+      },
+      "widgetId": "readme-quotes",
+      "instanceId": "widget_1790264263995"
+    },
+    {
+      "instanceId": "widget_1790275757489",
+      "widgetId": "codeweb-minimal-badge",
+      "name": "Codeweb-minimal-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 1608
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "suffix": ".",
+        "backgroundColor": "transparent"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#0a0a14",
-    "textColor": "#d6e0f0",
-    "accentColor": "#6cc382",
-    "borderColor": "#1e1e38",
-    "fontFamily": "'JetBrains Mono', monospace",
-    "borderRadius": 0,
     "padding": 24,
+    "textColor": "#d6e0f0",
     "themeMode": "dark",
-    "templateStyle": "codeweb"
+    "fontFamily": "'JetBrains Mono', monospace",
+    "accentColor": "#6cc382",
+    "borderColor": "transparent",
+    "borderRadius": 0,
+    "templateStyle": "codeweb",
+    "backgroundColor": "transparent"
   },
   "templateId": "codeweb",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790268314629_fuxt3",
-    "updatedAt": "2026-09-24T16:45:17.498Z"
+    "revision": "rev_1790275875821_xmqqn",
+    "updatedAt": "2026-09-24T18:51:18.667Z"
   }
 }
