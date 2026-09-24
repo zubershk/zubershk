@@ -1,0 +1,194 @@
+{
+  "widgets": [
+    {
+      "widgetId": "codeweb-retro-grid",
+      "name": "Codeweb-retro-grid Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 260
+      },
+      "config": {
+        "selectedTechs": [
+          "ts",
+          "js",
+          "html",
+          "css",
+          "sass",
+          "bash",
+          "vue",
+          "cs",
+          "php",
+          "py",
+          "java",
+          "ruby",
+          "c",
+          "cpp",
+          "docker",
+          "github",
+          "nextjs",
+          "mysql"
+        ],
+        "displayMode": "both",
+        "animationType": "none",
+        "animationPreviewKey": 5,
+        "hideDecorations": false,
+        "hideBorder": false,
+        "sourceType": "avatar",
+        "devCardLink": "",
+        "link": ""
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1790262332382_0"
+    },
+    {
+      "widgetId": "codeweb-showcase-cards",
+      "name": "Codeweb-showcase-cards Widget",
+      "position": {
+        "x": 0,
+        "y": 276
+      },
+      "size": {
+        "width": 800,
+        "height": 220
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1790262332382_1"
+    },
+    {
+      "instanceId": "widget_1790262535832",
+      "widgetId": "controlplane-foundry",
+      "name": "Controlplane-foundry Widget",
+      "position": {
+        "x": 0,
+        "y": 588
+      },
+      "size": {
+        "width": 800,
+        "height": 330
+      },
+      "config": {
+        "layoutType": "hero",
+        "accentColor": "#e6fbfb",
+        "secondaryColor": "#8a8a8a",
+        "customTitle": "",
+        "animationSpeed": 2
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_1790263153148",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 934
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
+      "config": {
+        "theme": "dark"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1790263155186",
+      "widgetId": "profile-trophy",
+      "name": "Profile-trophy Widget",
+      "position": {
+        "x": 0,
+        "y": 1200
+      },
+      "size": {
+        "width": 800,
+        "height": 200
+      },
+      "config": {
+        "column": 6,
+        "row": 1,
+        "noFrame": true,
+        "noBg": true,
+        "hideBorder": false,
+        "hideDecorations": false,
+        "borderColor": "github-auto"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1790263472717",
+      "widgetId": "codeweb-social-badge",
+      "name": "Codeweb-social-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 521
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "platforms": [
+          "github",
+          "linkedin",
+          "gmail",
+          "portfolio"
+        ],
+        "label_github": "zubershk",
+        "label_linkedin": "zubershk",
+        "label_portfolio": "www.zubershaikh.dev",
+        "label_gmail": "zubershaikh7232@gmail.com",
+        "showText": false,
+        "showIcons": true,
+        "staticMode": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1790264263995",
+      "widgetId": "readme-quotes",
+      "name": "Readme-quotes Widget",
+      "position": {
+        "x": 0,
+        "y": 1416
+      },
+      "size": {
+        "width": 784,
+        "height": 176
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#0a0a14",
+    "textColor": "#d6e0f0",
+    "accentColor": "#6cc382",
+    "borderColor": "#1e1e38",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "codeweb"
+  },
+  "templateId": "codeweb"
+}
