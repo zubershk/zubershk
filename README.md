@@ -25,3 +25,9 @@ A results-driven B.Sc. Data Science student with expertise in full-stack develop
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zubershk&icon=5&color=1)](https://visitcount.itsvg.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zubershk/zubershk/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zubershk/zubershk/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/zubershk/zubershk/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
