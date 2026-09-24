@@ -2,6 +2,11 @@ name: Update GitAscii
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - gitascii
+    paths:
+      - gitascii.json
 
 permissions:
   contents: write
@@ -14,6 +19,7 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+
     steps:
       - name: Generate and Publish GitAscii SVGs
         uses: Igorcbraz/GitAscii/action@main
