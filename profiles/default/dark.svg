@@ -451,9 +451,9 @@
         <path class="forge-pour" d="M585 151.5C622 151.5 644 70 686 70" fill="none" stroke="#FF7C1E" stroke-width="1.5"/>
         <use href="#forge-ingot-widget_1790262535832" transform="translate(700 70)"/>
         <circle class="forge-spark" style="animation-delay:0.00s" cx="714" cy="61" r="1.8" fill="#FF7C1E"/>
-        <text x="724" y="66" class="forge-label" font-size="12" font-weight="800" fill="#F6EDDB">ocp</text>
-        <text x="1142" y="66" text-anchor="end" class="forge-mono" font-size="7.5" letter-spacing="1.3" fill="#FF7C1E">GO</text>
-        <text x="724" y="83" class="forge-label" font-size="8.7" fill="#A99C86">Full-stack food ordering platform with WhatsApp integra…</text>
+        <text x="724" y="66" class="forge-label" font-size="12" font-weight="800" fill="#F6EDDB">zubershk</text>
+        <text x="1142" y="66" text-anchor="end" class="forge-mono" font-size="7.5" letter-spacing="1.3" fill="#FF7C1E">EXTEND</text>
+        <text x="724" y="83" class="forge-label" font-size="8.7" fill="#A99C86">No description provided.</text>
         <path d="M724 92H1142" stroke="#3F3226"/>
       </g>
       <g class="forge-rise" style="animation-delay:155ms">
@@ -461,9 +461,9 @@
         <path class="forge-pour" d="M585 160.5C622 160.5 644 114 686 114" fill="none" stroke="#FF7C1E" stroke-width="1.5"/>
         <use href="#forge-ingot-widget_1790262535832" transform="translate(700 114)"/>
         <circle class="forge-spark" style="animation-delay:0.43s" cx="714" cy="105" r="1.8" fill="#FF7C1E"/>
-        <text x="724" y="110" class="forge-label" font-size="12" font-weight="800" fill="#F6EDDB">zubershk</text>
-        <text x="1142" y="110" text-anchor="end" class="forge-mono" font-size="7.5" letter-spacing="1.3" fill="#66A9CC">EXTEND</text>
-        <text x="724" y="127" class="forge-label" font-size="8.7" fill="#A99C86">No description provided.</text>
+        <text x="724" y="110" class="forge-label" font-size="12" font-weight="800" fill="#F6EDDB">ocp</text>
+        <text x="1142" y="110" text-anchor="end" class="forge-mono" font-size="7.5" letter-spacing="1.3" fill="#66A9CC">GO</text>
+        <text x="724" y="127" class="forge-label" font-size="8.7" fill="#A99C86">Full-stack food ordering platform with WhatsApp integra…</text>
         <path d="M724 136H1142" stroke="#3F3226"/>
       </g>
       <g class="forge-rise" style="animation-delay:210ms">
@@ -545,7 +545,7 @@
         width: 0px;
       }
       to {
-        width: 7.76px;
+        width: 7.359999999999999px;
       }
     }
     #Commits-rank-progress{
@@ -558,7 +558,7 @@
         width: 0px;
       }
       to {
-        width: 24px;
+        width: 21.333333333333332px;
       }
     }
     #PullRequest-rank-progress{
@@ -800,7 +800,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#000">PullRequest</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#666">High Puller</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#666">29pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#666">28pt</text>
           
     
     <rect
