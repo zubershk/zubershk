@@ -155,7 +155,8 @@
         "hideBorder": false,
         "borderColor": "github-auto",
         "hideDecorations": false,
-        "theme": "gruvbox"
+        "theme": "gruvbox",
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "zIndex": 6,
@@ -204,7 +205,11 @@
         "width": 784,
         "height": 176
       },
-      "config": {},
+      "config": {
+        "quoteType": "quote-day",
+        "theme": "dark",
+        "lockAspectRatio": false
+      },
       "locked": false,
       "zIndex": 7,
       "visible": true,
@@ -229,7 +234,7 @@
       },
       "config": {
         "suffix": ".",
-        "backgroundColor": "transparent"
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "visible": true,
@@ -250,7 +255,7 @@
   "templateId": "codeweb",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790614729018_zexsi",
-    "updatedAt": "2026-09-28T16:58:52.901Z"
+    "revision": "rev_1790615014347_7z5vz",
+    "updatedAt": "2026-09-28T17:03:38.955Z"
   }
 }

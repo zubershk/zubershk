@@ -567,7 +567,7 @@
 
       
       
-      <rect class="" x="0" y="0" width="800" height="200" fill="transparent" stroke="github-auto" stroke-width="1" rx="0" />
+      <rect class="" x="0" y="0" width="800" height="200" fill="#060606" stroke="github-auto" stroke-width="1" rx="0" />
       
       
     <text x="24" y="32" font-family="&apos;JetBrains Mono&apos;, monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ PROFILE TROPHIES ]</text>
@@ -1448,11 +1448,11 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
       </g>
 
       <text font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3" font-style="italic">
-        <tspan x="58" y="82">“Any fool can write code that a computer can understand. Good programmers write</tspan><tspan x="58" y="102">code that humans can understand.”</tspan>
+        <tspan x="58" y="82">“Programs must be written for people to read, and only incidentally for machines</tspan><tspan x="58" y="102">to execute.”</tspan>
       </text>
 
       <text x="752" y="140" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="0.5">
-        — Martin Fowler
+        — Harold Abelson
       </text>
 
       <circle cx="754" cy="62" r="3" fill="#c5ff4a" opacity="0.9" />
