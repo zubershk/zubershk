@@ -128,7 +128,8 @@
         "height": 250
       },
       "config": {
-        "theme": "dark"
+        "theme": "dark",
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "zIndex": 5,
@@ -153,7 +154,8 @@
         "noFrame": true,
         "hideBorder": false,
         "borderColor": "github-auto",
-        "hideDecorations": false
+        "hideDecorations": false,
+        "theme": "gruvbox"
       },
       "locked": false,
       "zIndex": 6,
@@ -248,7 +250,7 @@
   "templateId": "codeweb",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790613483260_wod0k",
-    "updatedAt": "2026-09-28T16:38:07.215Z"
+    "revision": "rev_1790614729018_zexsi",
+    "updatedAt": "2026-09-28T16:58:52.901Z"
   }
 }
