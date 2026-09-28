@@ -63,7 +63,8 @@
           "mongodb",
           "postgres",
           "nodejs"
-        ]
+        ],
+        "backgroundColor": "github-auto"
       },
       "locked": false,
       "zIndex": 1,
@@ -247,7 +248,7 @@
   "templateId": "codeweb",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790275875821_xmqqn",
-    "updatedAt": "2026-09-24T18:51:18.667Z"
+    "revision": "rev_1790613483260_wod0k",
+    "updatedAt": "2026-09-28T16:38:07.215Z"
   }
 }
